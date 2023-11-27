@@ -281,7 +281,7 @@ i.fa-solid.fa-user.dropdown-toggle::after {
   width: 280px;
   position: absolute;
   z-index: 99999;
-  top: 3rem;
+  top: 5rem;
   left: calc(100% - 30rem);
   background-image: var(--bg-gradient-dark);
   background-color: #110d2e !important;
@@ -416,7 +416,7 @@ i.fa-solid.fa-user.dropdown-toggle::after {
 
 .dropdown-user-profile {
   position: fixed;
-  top: 3rem;
+  top: 5rem;
   left: calc(100% - 23rem);
   border-top: 4px solid !important;
   border-color: #fc466b !important;

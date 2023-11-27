@@ -282,7 +282,7 @@ const BannerCardFrame = () => {
                             <div class="search-containerrounded-5 w-50">
                                 <input class="form-control me-2 rounded-5 bg-transparent text-white h-100 w-100" type="search" placeholder="In Auction" aria-label="Search" />
                             </div>
-                            <a className='fontsize-small-forbutton' href="#">Clear All</a>
+                            <a className='fontsize-small-forbutton' href="#home">Clear All</a>
                         </div>
 
                         <div className='header-section-section2 d-flex h-100 w-50 justify-content-around align-items-center gap-3 px-2'>

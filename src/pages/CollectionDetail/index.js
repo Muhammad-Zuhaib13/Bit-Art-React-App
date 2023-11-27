@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../../layout/Layout'
 import CollectionDetailSection from '../../components/CollectionDetails/CollectionDetailSection'
 
-const Collection_detail = () => {
+const CollectionDetail = () => {
   return (
     <Layout>
     <CollectionDetailSection/>
@@ -10,4 +10,4 @@ const Collection_detail = () => {
   )
 }
 
-export default Collection_detail
+export default CollectionDetail
