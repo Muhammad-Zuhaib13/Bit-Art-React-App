@@ -197,6 +197,9 @@
 }
 
 @media only screen and (max-width: 575px) {
+  .login-form-wrapper, .signup-form-wrapper{
+    width: 95%;
+  }
   .signup-title h1 {
     font-size: 48px;
   }
