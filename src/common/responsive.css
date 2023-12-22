@@ -22,6 +22,9 @@
   .PortolioDetailMainContainer{
     width: 75%;
   }
+  .banner-center-slider{
+    height: 520px !important;
+  }
 }
 
 @media only screen and (max-width: 1600px) {
